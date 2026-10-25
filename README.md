@@ -14,7 +14,7 @@ Simple interest = (principal × annual rate × time in years) / 100
 bash simple-interest.sh
 ```
 
-Enter the principal, annual interest rate in percent, and number of years when prompted.
+Enter the principal amount, annual interest rate (as a percentage), and time period in years when prompted.
 
 ### Project files
 
