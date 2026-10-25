@@ -6,6 +6,8 @@ This repository is Srushti Kaudewar's fork for the Coursera Git and GitHub final
 
 ### Formula
 
+The calculator uses the standard simple-interest formula:
+
 Simple interest = (principal × annual rate × time in years) / 100
 
 ### Run
